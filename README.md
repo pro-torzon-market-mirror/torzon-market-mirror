@@ -57,4 +57,6 @@ This guide is for educational purposes only. We do not promote illegal activitie
 
 
 
-Update:  Friday 04 July 2025 I'm happy to report that the link is now accessible.
+
+
+Update: url is now accessible and responsive
